@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots\task-1-chatgpt.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned how self teaching can be done in a better way.How an AI changes the leval of explaination according to pormpt given by the user.I learned how i can relate the concepts with real life examples with help of AI, which helps me improve my leval of understanding of that concept.
 
 ---
 
@@ -59,7 +59,10 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+1. Packet Switching:In Packet Switching data is broken into small pieces called packets, which travel independently over the internet and are reassembled at the destination.
+2. IP Address: All device has a unique number called an IP address, which helps identify that device and send data to the right place.
+3. TCP/IP: TCP/IP are the rules that control how data packets are sent and received on the internet, making communication easier.
+4. HTTP/HTTPS: These are protocols used for loading websites. HTTPS is the secure version that encrypts data to protect your information online.
 
 ---
 
@@ -91,7 +94,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots\task-3-diagram.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +105,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Bootstrap 
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Django
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB
+* SQL Server
 
 ---
 
@@ -142,8 +145,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
-
+1. DNS (Domain Name System) is like the internet's phone book that helps computers find websites by turning easy to remember names like epicreads.com into the actual numbers (IP addresses) that computers use to connect.
+2. To connect the domain epicreads.com to the IP address 52.172.142.222, the DNS record type called an "A record" should be used. An A record maps the domain name to its specific IPv4 address, allowing users to access the website using the domain instead of the IP address.
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
@@ -178,7 +181,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots\task-5-vscode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -230,7 +233,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA
 ```
 
 ---
@@ -239,7 +242,15 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Chat GPT I explored how AI tools like ChatGPT can assist in learning and automating tasks, providing quick, clear explanations to complex questions, helping streamline workflows, and enhancing productivity.
+Internet & Networking Understanding internet fundamentals is crucial. From IP addresses to HTTP/HTTPS protocols, knowing how data travels across networks helps in troubleshooting and optimizing online services.
+App Architecture Designing scalable and maintainable applications involves choosing the right architecture—whether monolithic or microservices. Proper planning ensures efficient deployment and easier updates.
+DNS DNS is the backbone of the internet, translating human-readable domain names into IP addresses. Proper DNS setup ensures website accessibility and optimal performance.
+VS Code  Setting up Visual Studio Code with the right extensions and configurations is key to an efficient development environment. I customized VS Code with extensions which helps me with better environment.
+
+P.S.This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/ github.com/Vasist-03
+.html • Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced
+
 
 ---
 
@@ -247,19 +258,21 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+tasks were easy with the help of ai.It was a great experience because whenever i had any problem regarding assignment the course onboarding sessin helped me resolve it.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Adding pictures(Screensorts) was tricky.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+this session improved my patience.
+also there was many new things which was new to me.
+next week i think i will many more new things
 
 ---
 
