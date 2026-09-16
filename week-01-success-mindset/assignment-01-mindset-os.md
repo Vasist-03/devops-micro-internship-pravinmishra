@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that failure is actually a good thing. Most people try to avoid messing up because they’re scared of what others will think or because we don’t want to look weak. But I think failure is how we learn and get better. Without failing, we don’t really grow or improve. Most people like us see failure as something bad, but I see it as a necessary part of my life and for success.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+No One Helps Us for free, other then our parents.
 
 ### Evidence from my life
 
-Add your answer here...
+A certain time ago i was in a very bad period of time where i was failing, broke with no money, had big ambitions which was crumbling because of lack of confidence and no guide. my parents were the only ones who said its ok to fail, but dont give up. While the persons whome i respected (Still respecting) said to give up and not to trouble others for help.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Its better to be alone rather then being with people who drahs us down(like crabs in a bowl).
 
 ### Evidence from my life
 
-Add your answer here...
+Same incident from above.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Persistance can beat talent and luck(at least for me it worked)
 
 ### Evidence from my life
 
-Add your answer here...
+There was a task which was new to me and it was a first time experience for me to do things which didnt came under my domain, but continuous grinding and un denying persistance made me do that task(And it actualy made me happy from within).
 
 ---
 
@@ -145,11 +145,26 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+My 2.0 Version
+By 2031, I have transformed myself from a CSE student into a skilled and ambitious technology professional. My journey had started with an interest in computer science, but over the years, I have turned that interest into practical skills, real projects, and professional experience.
+
+I have completed a DevOps course and had gained good knowledge of DevOps concepts and practices. I have worked with CI/CD pipelines, cloud technologies, version control, automation, and deployment processes. I have applied these skills to practical projects and have learned how software was developed, tested, automated, and deployed in real-world environments.
+
+I have also developed strong knowledge of automation testing. I had created automated test cases and had worked with testing tools and frameworks. I had used automation to reduce repetitive manual work and improve the quality and reliability of software. My knowledge of automation testing had become one of the strongest parts of my technical skill set.
+
+One experience had changed the way I looked at challenges. I had been given a task that was completely new to me and was outside my usual technical domain. At first, I had found the task difficult because I had never worked on anything similar before. However, I had refused to give up. I had continuously worked on the problem, researched new concepts, learned from my mistakes, and kept trying until I completed the task successfully.
+
+That experience had taught me that my abilities were not limited to what I already knew. My continuous grinding and undeniable persistence had helped me complete something that initially seemed unfamiliar and difficult. More importantly, completing that task had made me genuinely happy from within. I had realized that the feeling of overcoming a difficult challenge was one of the most rewarding parts of my growth.
+
+During these years, I had built several projects using my knowledge of CSE, DevOps, and automation testing. I had tested applications, automated processes, and shipped projects through reliable deployment pipelines. I had also contributed to team projects and had taken responsibility for important technical tasks.
+
+I had worked with different teams, led parts of projects, solved technical problems, and communicated with team members to complete projects successfully. I had published some of my projects and technical work online, which had helped me build a strong professional portfolio. I had also earned certifications related to DevOps, cloud computing, and automation testing.
+
+In pase few years, I have become much more confident and experienced than I had been as a college student. I had transformed my ambition into skills, experience, and achievements. I have built, tested, automated, deployed, and contributed to real projects. Most importantly, I have learned that persistence had helped me overcome challenges even when they had fallen outside my comfort zone. My 2.0 version had been shaped not only by what I have learned, but also by the challenges I have faced, the failures I have overcome, and the determination I have shown to keep moving forward.
 
 ### Public Link
 
-Paste your link here:
+[Paste your link here:](https://lnkd.in/p/d_5U2iZd)
 
 `Add your URL here`
 
@@ -183,11 +198,13 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes
+At first i was happy because i achived what i wanted. But later on i realised that the outcome was worthless because that proud feeling soon become a guilt(I am still feeling guilty now thinking about it).
 
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
+
 
 ### Rules
 
@@ -209,16 +226,17 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+* Atomic Habits — James Clear
+* Deep Work — Cal Newport
+* The Pragmatic Programmer - Andrew Hunt and David Thomas
+* Coders at Work: Reflections on the Craft of Programming - Peter Seibel
+* Mindset — Carol S. Dweck
+* Essentialism — Greg McKeown
+* The 21 Irrefutable Laws of Leadership — John C. Maxwell
+* The 48 Laws of Power -  Robert Greene
+* The 7 Habits of Highly Effective People - Stephen R. Covey
+* Influence: The Psychology of Persuasion - Robert B. Cialdini
+
 
 ---
 
@@ -247,16 +265,14 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Fitness
+* Sleep hours
+* Spending
+* Learning hours per week
+* Daily screen time
+* Projects
+* Deep work sessions each day
+* amount of productive work each week
 
 ---
 
@@ -280,9 +296,9 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: yes
 
-Add your answer here...
+The list is too big and chaotic(its too intense to be done in 1 year)
 
 ---
 
@@ -300,7 +316,15 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+its not actualy according to subjects but rather its tasks :
+
+* Mon: planing of assignments need to be completed, and do the easiest one to motivate my self
+* Tue: Take the Toughest task
+* Wed: Take 2nd the Toughest task
+* Thur: do a easy task( because now i have a new course and mantain)To mantain Consistency
+* Fri: revise all the previous task and do assignments
+* Sat: do the normal moderate tasks
+* Sun: Weekly review
 
 ---
 
@@ -308,11 +332,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+i usually do the DMI work on friday evening
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+About 2 sessions each week
 
 ---
 
@@ -326,7 +350,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+My phone(it has every thing(study material as well as entertainment) and the only devil who is eating my time)
 
 ---
 
@@ -334,19 +358,19 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+New things can be un pleasent but it improves me
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Unable to focus due to too many works(study,project and course related)
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+try to give At least 45 minutes to every task every day 
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+[Paste your LinkedIn post link here:](https://lnkd.in/p/d_5U2iZd)
 
 `Add your URL here`
 
@@ -354,8 +378,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[ADD LINK HERE](https://lnkd.in/p/d_5U2iZd)**  
+- Blog / Medium : **[ADD LINK HERE](https://lnkd.in/dJuRZ2F4)**  
 
 ---
 
