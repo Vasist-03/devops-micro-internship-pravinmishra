@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](https://github.com/Vasist-03/devops-micro-internship-pravinmishra/blob/4ce22d324b5f814bb5d58be217ad60fb2ef28ee0/week-00-internet-and-networking/screensort_in_jpg_formate/DMI_1st_Screensort.jpg)
+![Task 1 Screenshot](screensort_in_jpg_formate/DMI_1st_Screensort.jpg)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -94,7 +94,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](week-00-internet-and-networking/screensort_in_jpg_formate/DMI_3rd_Screensort.jpg)
+![Application Architecture Diagram](screensort_in_jpg_formate/DMI_3rd_Screensort.jpg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
