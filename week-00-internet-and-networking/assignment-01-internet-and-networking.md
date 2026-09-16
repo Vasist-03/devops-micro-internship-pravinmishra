@@ -94,7 +94,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screensort_in_jpg_formate\DMI_3rd_Screensort.jpg)
+![Application Architecture Diagram](week-00-internet-and-networking/screensort_in_jpg_formate/DMI_3rd_Screensort.jpg)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -181,7 +181,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screensort_in_jpg_formate\DMI_5th_Screensort.jpg)
+![VS Code Setup Screenshot](screensort_in_jpg_formate/DMI_5th_Screensort.jpg)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
