@@ -390,8 +390,8 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
  My graded progress is public: https://lnkd.in/dkwavDcc
 · Start your DevOps journey: https://lnkd.in/d_nCWfV7
 
-`https://lnkd.in/p/d_5U2iZd`
-LinkedIn Post URL: https://lnkd.in/p/d_5U2iZd
+LinkedIn Post URL:`https://lnkd.in/p/d_5U2iZd` https://lnkd.in/p/d_5U2iZd
+
 ---
 
 ## 10. Proof of Work
