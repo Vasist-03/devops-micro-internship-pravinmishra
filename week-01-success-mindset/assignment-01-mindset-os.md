@@ -164,9 +164,9 @@ In pase few years, I have become much more confident and experienced than I had 
 
 ### Public Link
 
-[https://lnkd.in/p/d_5U2iZd](https://lnkd.in/p/d_5U2iZd)
+**[https://lnkd.in/dJuRZ2F4](https://lnkd.in/dJuRZ2F4)**
 
-`https://lnkd.in/p/d_5U2iZd`
+`https://lnkd.in/dJuRZ2F4`
 
 ---
 
