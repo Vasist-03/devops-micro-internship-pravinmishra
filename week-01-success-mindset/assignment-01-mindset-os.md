@@ -164,9 +164,9 @@ In pase few years, I have become much more confident and experienced than I had 
 
 ### Public Link
 
-[Paste your link here:](https://lnkd.in/p/d_5U2iZd)
+[https://lnkd.in/p/d_5U2iZd](https://lnkd.in/p/d_5U2iZd)
 
-`Add your URL here`
+`https://lnkd.in/p/d_5U2iZd`
 
 ---
 
@@ -351,6 +351,7 @@ Examples:
 #### My Distraction Rules
 
 My phone(it has every thing(study material as well as entertainment) and the only devil who is eating my time)
+So i decided that i will keep it in the next room while doing some task.
 
 ---
 
@@ -370,16 +371,33 @@ try to give At least 45 minutes to every task every day
 
 ### LinkedIn Post
 
-[Paste your LinkedIn post link here:](https://lnkd.in/p/d_5U2iZd)
+My 2.0 version
 
-`Add your URL here`
+Inspired by my mentors and co-mentors from DevOPS program
+
+By 2031, I have transformed myself from a CSE student into a skilled and ambitious technology professional. My journey had started with an interest in computer science, but over the years, I have turned that interest into practical skills, real projects, and professional experience.
+I have completed a DevOps course and had gained good knowledge of DevOps concepts and practices. I have worked with CI/CD pipelines, cloud technologies, version control, automation, and deployment processes. I have applied these skills to practical projects and have learned how software was developed, tested, automated, and deployed in real-world environments.
+
+
+
+rest of the content is in my post. link given below.
+https://lnkd.in/dJuRZ2F4
+
+very thanks to, @Pravin Mishra @Anjana Muthunayake And DMI team
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra.
+ My graded progress is public: https://lnkd.in/dkwavDcc
+· Start your DevOps journey: https://lnkd.in/d_nCWfV7
+
+`https://lnkd.in/p/d_5U2iZd`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[ADD LINK HERE](https://lnkd.in/p/d_5U2iZd)**  
-- Blog / Medium : **[ADD LINK HERE](https://lnkd.in/dJuRZ2F4)**  
+- LinkedIn Post URL: **[https://lnkd.in/p/d_5U2iZd](https://lnkd.in/p/d_5U2iZd)**  
+- Blog / Medium : **[https://lnkd.in/dJuRZ2F4](https://lnkd.in/dJuRZ2F4)**  
 
 ---
 

@@ -230,7 +230,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here:https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA
 
 ```text
 https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA
@@ -248,8 +248,7 @@ App Architecture Designing scalable and maintainable applications involves choos
 DNS DNS is the backbone of the internet, translating human-readable domain names into IP addresses. Proper DNS setup ensures website accessibility and optimal performance.
 VS Code  Setting up Visual Studio Code with the right extensions and configurations is key to an efficient development environment. I customized VS Code with extensions which helps me with better environment.
 
-P.S.This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/ github.com/Vasist-03
-.html • Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/https://github.com/Vasist-03.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
 
 
 ---
