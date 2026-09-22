@@ -57,7 +57,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/Vasist-03/devops-micro-internship-pravinmishra#my-devops-stack`
+
+https://github.com/Vasist-03/devops-micro-internship-pravinmishra
 
 **Preview — what your full stack looks like:**
 
@@ -130,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://lnkd.in/p/dMJtBk-w | https://medium.com/@vermavasist/my-first-assignment-in-dmi-self-paced-engineer-track-79847e431c5c|
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA | https://medium.com/@vermavasist/my-first-assignment-in-dmi-self-paced-engineer-track-79847e431c5c|
 | 01 | Success Mindset | ✅ Completed  | ✅ Solved |     https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505975076169711616-f8Ga?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA     |  https://lnkd.in/dJuRZ2F4   |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
