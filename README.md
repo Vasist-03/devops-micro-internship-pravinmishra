@@ -133,7 +133,7 @@ https://github.com/Vasist-03/devops-micro-internship-pravinmishra
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA | https://medium.com/@vermavasist/my-first-assignment-in-dmi-self-paced-engineer-track-79847e431c5c|
-| 01 | Success Mindset | ✅ Completed  | ✅ Solved |     https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505975076169711616-f8Ga?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA     |  https://lnkd.in/dJuRZ2F4   |
+| 01 | Success Mindset | ✅ Completed  | ✅ Solved |     https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505975076169711616-f8Ga?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA     |  https://medium.com/@vermavasist/my-2-0-version-29516cedc661?sharedUserId=vermavasist |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
