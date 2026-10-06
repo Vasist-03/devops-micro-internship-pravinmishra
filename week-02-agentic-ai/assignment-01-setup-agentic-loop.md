@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-Add your screenshot here.
+![Task 1 Screenshot](screenshots\1st_assignment\1st_screensort.png)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![screensort 2](screenshots\1st_assignment\2nd_screensort.png)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+![screensort 3](screenshots\1st_assignment\3rd_screensort.png)
 
 ---
 
@@ -54,13 +54,29 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+![screensort 4](screenshots\1st_assignment\41_4th_screensort.png)
+![screensort 4](screenshots\1st_assignment\42_4th_screensort.png)
+![screensort 4](screenshots\1st_assignment\43_4th_screensort.png)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
+![screensort 5](screenshots\1st_assignment\5th_screensort.png)
+
+---
+# Task 4 — Share Your First Agentic AI Achievement
+
+## Goal
+
+[link to the post](https://www.linkedin.com/posts/vasist-verma-b73737269_ai-devops-claude-activity-7510711718160003072-o1Q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)
+
+### Evidence
+
+#### Screenshot 6 — Published LinkedIn post showing the caption and shared DMI Leaderboard progress
+
+![Screenshot 6](screenshots\1st_assignment\6th_screensort.png)
+
 
 ---
 
@@ -75,20 +91,20 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+[link of github repo](https://github.com/Vasist-03/Ultimate-Agentic-DevOps-with-Claude-Code.git)
 
-`Add your URL here`
+
 
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [✅] Claude Code CLI installed successfully
+- [✅] Claude Code authenticated successfully
+- [✅] Repository forked successfully
+- [✅] Repository cloned and opened in VS Code
+- [✅] All required screenshots added
+- [✅] GitHub repository URL provided
 
 ---
 
