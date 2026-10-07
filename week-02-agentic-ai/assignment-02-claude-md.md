@@ -20,10 +20,10 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-![Screenshot 1.1](screenshots\2nd_assignment\11_screensort.png)
-![Screenshot 1.2](screenshots\2nd_assignment\12_screensort.png)
-![Screenshot 1.3](screenshots\2nd_assignment\13_screensort.png)
-![Screenshot 1.4](screenshots\2nd_assignment\14_screensort.png)
+![Screenshot 1.1](screenshots/2nd_assignment/11_screensort.png)
+![Screenshot 1.2](screenshots/2nd_assignment/12_screensort.png)
+![Screenshot 1.3](screenshots/2nd_assignment/13_screensort.png)
+![Screenshot 1.4](screenshots/2nd_assignment/14_screensort.png)
 
 
 ---
@@ -38,8 +38,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-![Screenshot 2.1](screenshots\2nd_assignment\21_screensort.png)
-![Screenshot 2.2](screenshots\2nd_assignment\22_screensort.png)
+![Screenshot 2.1](screenshots/2nd_assignment/21_screensort.png)
+![Screenshot 2.2](screenshots/2nd_assignment/22_screensort.png)
 
 ---
 
@@ -53,8 +53,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![Screenshot 3.1](screenshots\2nd_assignment\31_screensort.png)
-![Screenshot 3.2](screenshots\2nd_assignment\32_screensort.png)
+![Screenshot 3.1](screenshots/2nd_assignment/31_screensort.png)
+![Screenshot 3.2](screenshots/2nd_assignment/32_screensort.png)
 
 ---
 
@@ -68,14 +68,14 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-![Screenshot 4.1](screenshots\2nd_assignment\41_screensort.png)
-![Screenshot 4.2](screenshots\2nd_assignment\42_screensort.png)
+![Screenshot 4.1](screenshots/2nd_assignment/41_screensort.png)
+![Screenshot 4.2](screenshots/2nd_assignment/42_screensort.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-![Screenshot 5.1](screenshots\2nd_assignment\51_screensort.png)
+![Screenshot 5.1](screenshots/2nd_assignment/51_screensort.png)
 
 ---
 
@@ -89,7 +89,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![Screenshot 6.1](screenshots\2nd_assignment\6_screensort.png)
+![Screenshot 6.1](screenshots/2nd_assignment/6_screensort.png)
 
 ---
 

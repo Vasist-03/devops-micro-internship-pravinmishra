@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![Screenshot 1](screenshots\4th_assignment\1st_screensort.png)
+![Screenshot 1](screenshots/4th_assignment/1st_screensort.png)
 
 ---
 
@@ -58,12 +58,12 @@ By inheriting the model, it automatically uses whatever model the parent agent o
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-![Screenshot 2](screenshots\4th_assignment\2nd_screensort.png)
+![Screenshot 2](screenshots/4th_assignment/2nd_screensort.png)
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![Screenshot 3](screenshots\4th_assignment\3rd_screensort.png)
+![Screenshot 3](screenshots/4th_assignment/3rd_screensort.png)
 
 ---
 
@@ -77,14 +77,14 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![Screenshot 4](screenshots\4th_assignment\4th_screensort.png)
+![Screenshot 4](screenshots/4th_assignment/4th_screensort.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![Screenshot 4](screenshots\4th_assignment\4th_screensort.png)
-![Screenshot 5](screenshots\4th_assignment\5th_screensort.png)
+![Screenshot 4](screenshots/4th_assignment/4th_screensort.png)
+![Screenshot 5](screenshots/4th_assignment/5th_screensort.png)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -97,9 +97,9 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-![Screenshot 6](screenshots\4th_assignment\6th_screensort.png)
-![Screenshot 6](screenshots\4th_assignment\6_1th_screensort.png)
-![Screenshot 6](screenshots\4th_assignment\7th_screensort.png)
+![Screenshot 6](screenshots/4th_assignment/6th_screensort.png)
+![Screenshot 6](screenshots/4th_assignment/6_1th_screensort.png)
+![Screenshot 6](screenshots/4th_assignment/7th_screensort.png)
 
 ---
 
