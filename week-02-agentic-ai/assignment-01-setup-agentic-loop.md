@@ -69,7 +69,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 ## Goal
 
-[link to the post](https://www.linkedin.com/posts/vasist-verma-b73737269_ai-devops-claude-activity-7510711718160003072-o1Q-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)
+[link to the post](https://www.linkedin.com/posts/vasist-verma-b73737269_dmibypravinmishra-agenticai-claudecode-activity-7515040711336042496-ceRo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)
 
 ### Evidence
 

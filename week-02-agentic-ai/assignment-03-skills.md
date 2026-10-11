@@ -96,9 +96,9 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+[Linkedin post URL](https://www.linkedin.com/posts/vasist-verma-b73737269_dmibypravinmishra-agenticai-claudecode-activity-7515040711336042496-ceRo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)
 
-`Add your URL here`
+`https://www.linkedin.com/posts/vasist-verma-b73737269_dmibypravinmishra-agenticai-claudecode-activity-7515040711336042496-ceRo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA`
 ---
 
 # Completion Checklist

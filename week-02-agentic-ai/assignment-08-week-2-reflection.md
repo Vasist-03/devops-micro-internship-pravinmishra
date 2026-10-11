@@ -46,15 +46,15 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Screenshot](screenshots/8th_assignment/Blog_post.png)
 
 ---
 
 ### Submission Field
 
-Blog Link:
+[Blog Link](https://medium.com/@vermavasist/reflection-week-2-mastering-the-agentic-shift-d74b96764a38?sharedUserId=vermavasist)
 
-`Add your URL here`
+`https://medium.com/@vermavasist/reflection-week-2-mastering-the-agentic-shift-d74b96764a38?sharedUserId=vermavasist`
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screenshot](screenshots/8th_assignment/LinkedIn_post.png)
 
 ---
 
@@ -101,14 +101,24 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+LinkedIn Post for Week 2 - Agentic AI
+🚀 Leveling up with Agentic AI!
+Just wrapped up Week 2 of the DevOps Micro Internship (DMI), and the shift from "Chatbots" to "Agentic Workflows" has been eye-opening. 🤖
+This week was all about moving beyond simple prompts. I've been diving deep into Claude Code, exploring how MCP (Model Context Protocol) allows AI to interact with local data, and leveraging Subagents to break down complex tasks into manageable chunks.
+The most impactful part? Learning about Memory and Hooks. The ability for an agent to remember project context and execute specific triggers transforms the AI from a helper into a true teammate.
+Feeling much more equipped to build autonomous, scalable DevOps pipelines! 
+And very thanks to our mentor Pravin Mishra and our co-mentor Anjana Muthunayake
+hashtag#DMIByPravinMishra hashtag#AgenticAI hashtag#ClaudeCode hashtag#DevOps hashtag#LearningInPublic hashtag#CloudComputing hashtag#AIWorkflows
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://lnkd.in/dkwavDcc · 
+Start your DevOps journey: https://lnkd.in/d_nCWfV7
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+[linkedin post url](https://www.linkedin.com/posts/vasist-verma-b73737269_dmibypravinmishra-agenticai-claudecode-activity-7515040711336042496-ceRo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)
+
 
 ---
 
@@ -124,15 +134,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [✅] Blog written with required structure
+* [✅] Blog includes at least 2–3 Week 2 topics
+* [✅] Blog is publicly accessible
+* [✅] LinkedIn post created
+* [✅] Required P.S. line included
+* [✅] LinkedIn post content copied in submission field
+* [✅] Blog link added
+* [✅] LinkedIn post link added
+* [✅] Screenshots added to GitHub repo
 
 ---
 

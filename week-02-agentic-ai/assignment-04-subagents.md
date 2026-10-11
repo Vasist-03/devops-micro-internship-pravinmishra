@@ -113,9 +113,9 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+[GitHub Repository URL](https://github.com/Vasist-03/Ultimate-Agentic-DevOps-with-Claude-Code.git)
 
-`Add your URL here`
+`https://github.com/Vasist-03/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
