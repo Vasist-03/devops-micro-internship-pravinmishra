@@ -134,7 +134,7 @@ Week 00 → Internet & Networking Basics
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |[linkedin post](https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505613993085075456-7FKB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA) |[Blog post](https://medium.com/@vermavasist/my-first-assignment-in-dmi-self-paced-engineer-track-79847e431c5c) |
 | 01 | Success Mindset | ✅ Completed  | ✅ Solved |     [linkedin post](https://www.linkedin.com/posts/vasist-verma-b73737269_dmi-devops-micro-internship-with-agentic-activity-7505975076169711616-f8Ga?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA)     |  [Blog post](https://medium.com/@vermavasist/my-2-0-version-29516cedc661?sharedUserId=vermavasist) |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed  | ✅ Solved | [linkedin post](https://www.linkedin.com/posts/vasist-verma-b73737269_dmibypravinmishra-agenticai-claudecode-activity-7515040711336042496-ceRo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHITMcB_eze9AiS2TPoxrT0Bpv2zKLQrWA) | [Blog Link](https://medium.com/@vermavasist/reflection-week-2-mastering-the-agentic-shift-d74b96764a38?sharedUserId=vermavasist) |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |

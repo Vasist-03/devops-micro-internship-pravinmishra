@@ -20,19 +20,34 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account serves as a dedicated administrative container and unique identity that grants a user or organization access to the vast array of cloud computing services offered by Amazon Web Services. It provides a secure, centralized framework for managing identity and access (via IAM), monitoring resource utilization, and handling billing and payments through a single dashboard.
+
+At this specific stage of the DevOps Micro Internship, having an AWS account is critical because it transforms theoretical knowledge into practical skill. To onboard EpicReads, we need a live environment to provision virtual servers, configure networking, and manage storage. Without an account, it would be impossible to experiment with real-world cloud architecture, test the deployment of microservices, or understand the nuances of cloud security and scalability in a production-like setting.
+
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a comprehensive onboarding program designed to lower the barrier to entry for developers and students by allowing them to use specific AWS services at no cost, provided they stay within predefined usage limits. This program is divided into three distinct categories to accommodate different learning curves:
+1. **Always Free:** These offers do not expire and are available to all AWS customers regardless of when they signed up (e.g., certain Lambda or DynamoDB limits).
+2. **12 Months Free:** These are available only for the first year following the initial sign-up date. They are ideal for those learning the core pillars of cloud computing, such as compute (EC2) and storage (S3).
+3. **Trials:** These are short-term, limited-time offers that provide free access to high-end or specialized services for a few days or months after activation.
+
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+1. **Amazon Elastic Compute Cloud (EC2):**
+   The Free Tier provides **750 hours per month** of Linux or Windows instances using the `t2.micro` or `t3.micro` family. This is sufficient to run a single small server continuously for an entire month, allowing learners to host lightweight web applications or development environments for the first 12 months.
+
+2. **Amazon Simple Storage Service (S3):**
+   Users receive **5 GB of standard storage** for the first 12 months. In addition to the storage capacity, the free tier includes **20,000 GET requests** (downloading/reading data) and **2,000 PUT, COPY, POST, or LIST requests** (uploading/writing data) per month, which is ample for hosting static website assets or storing project backups.
+
+3. **Amazon Relational Database Service (RDS):**
+   For the first 12 months, AWS offers **750 hours per month** of managed database instances. This applies to `db.t2.micro`, `db.t3.micro`, or `db.t4g.micro` instances for engines like MySQL, PostgreSQL, or MariaDB. This allows for the creation of a fully managed relational database without the overhead of manual installation and patching.
+
 
 ---
 
@@ -56,7 +71,24 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![Screenshot 1](screenshots/1st_assignment/AWS.png)
+
+
+
+
+
+# Task 4 — Share Your AWS Cloud Onboarding Progress
+
+## Goal
+
+Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence of the published status.
+
+### Evidence
+
+### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
+
+![Screenshot 2](screenshots/1st_assignment/Whatsapp.png)
+
 
 ---
 
@@ -70,11 +102,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- [✅] Task 1 answers written in own words
+- [✅] AWS Free Tier account created successfully
+- [✅] Signed in to AWS Management Console
+- [✅] Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- [✅] All required screenshots added to repository
 
 ---
 
